@@ -51,7 +51,7 @@
 
 ## Academic Background:
 
-[<img align="left" height="150px" width="150px" alt="Warpnet" src="https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png"/>](https://www.uninter.com/)
+[<img align="left" height="250px" width="250px" alt="Warpnet" src="https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png"/>](https://www.uninter.com/)
 **AI Programming With Python** \
 [**UNINTER**](https://udacity.com/)  • Completed\
 Skills: `Agile Methodologies` `Python` `Pytorch` `Machine Learning`
