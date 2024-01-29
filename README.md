@@ -51,7 +51,7 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png"/>](#)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/017/400/original/Udacity-logo-vertical-RGB.jpg?1644497594"/>](#)
 **AI Programming With Python** \
 [**UDACITY**](https://udacity.com/)  • Completed\
 Skills: `Agile Methodologies` `Python` `Pytorch` `Machine Learning`
