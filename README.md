@@ -56,7 +56,7 @@
 [**UNINTER**](https://udacity.com/)  • Completed\
 Skills: `Agile Methodologies` `Python` `Pytorch` `Machine Learning`
 `Pandast` `Jupyter Notebook`
-
+<be>
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://codingdojo.com/)
 **Full Stack Developer** \
 [**Coding Dojo**](https://www.onebitcode.com/) • In progress \
