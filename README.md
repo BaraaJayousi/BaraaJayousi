@@ -52,7 +52,7 @@
 ## Academic Background:
 
 
-[<br><img align="left" height="150px" width="150px" alt="Warpnet" src="https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/2470/s300/cd-logo-blue-600x600.png"/>](https://codingdojo.com/)
+[<br><img align="left" height="94px" width="94px" alt="Warpnet" src="https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/2470/s300/cd-logo-blue-600x600.png"/>](https://codingdojo.com/)
 **Full Stack Developer** \
 [**Coding Dojo**](https://codingdojo/) • In progress \
 Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `Python` `Django` `React`
