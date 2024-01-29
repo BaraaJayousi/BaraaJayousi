@@ -57,7 +57,7 @@
 Skills: `Agile Methodologies` `Python` `Pytorch` `Machine Learning`
 `Pandas` `Jupyter Notebook`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://codingdojo.com/)
+[<img align="left" height="150px" width="150px" alt="Warpnet" src="https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/2470/s300/cd-logo-blue-600x600.png"/>](https://codingdojo.com/)
 **Full Stack Developer** \
 [**Coding Dojo**](https://www.onebitcode.com/) • In progress \
 Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `Python` `Django` `React`
