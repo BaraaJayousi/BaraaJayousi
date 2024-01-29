@@ -59,7 +59,7 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
 `MongoDB`
 
 
-[<img align="left" height="250px" width="250px" alt="Warpnet" src="https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png"/>](#)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png"/>](#)
 **AI Programming With Python** \
 [**UNINTER**](https://udacity.com/)  • Completed\
 Skills: `Agile Methodologies` `Python` `Pytorch` `Machine Learning`
