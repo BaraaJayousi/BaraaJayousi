@@ -51,11 +51,6 @@
 
 ## Academic Background:
 
-[<img align="left" height="250px" width="250px" alt="Warpnet" src="https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png"/>](#)
-**AI Programming With Python** \
-[**UNINTER**](https://udacity.com/)  • Completed\
-Skills: `Agile Methodologies` `Python` `Pytorch` `Machine Learning`
-`Pandas` `Jupyter Notebook`
 
 
 [<br><img align="left" height="150px" width="150px" alt="Warpnet" src="https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/2470/s300/cd-logo-blue-600x600.png"/>](https://codingdojo.com/)
