@@ -11,6 +11,7 @@
  <!--<img src="https://api.vaunt.dev/v1/github/entities/{{BaraaJayousi}}/contributions?format=svg&private=true" width="700" title="Includes public contributions"/>-->
  ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 </div>
+[![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)](https://leetcode.com/jacoblincool)
 
 
 <br>
