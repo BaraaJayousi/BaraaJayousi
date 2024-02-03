@@ -8,7 +8,7 @@
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=BaraaJayousi&theme=radical&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraaJayousi&layout=compact&theme=radical" />
- ##<img src="https://api.vaunt.dev/v1/github/entities/{{BaraaJayousi}}/contributions?format=svg&private=true" width="700" title="Includes public contributions"/>
+ <!--<img src="https://api.vaunt.dev/v1/github/entities/{{BaraaJayousi}}/contributions?format=svg&private=true" width="700" title="Includes public contributions"/>-->
 </div>
 
 
