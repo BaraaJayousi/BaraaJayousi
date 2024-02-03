@@ -10,6 +10,7 @@
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraaJayousi&layout=compact&theme=radical" />
  <!--<img src="https://api.vaunt.dev/v1/github/entities/{{BaraaJayousi}}/contributions?format=svg&private=true" width="700" title="Includes public contributions"/>-->
  ![](https://leetcard.jacoblin.cool/user3338DA?theme=dark&font=Roboto%20Slab&ext=heatmap)
+ [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
 </div>
 
 
